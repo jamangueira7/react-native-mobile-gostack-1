@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="gostack" src=".github/codigo.PNG" width="100%">
+  <img width="450" height="800" alt="gostack" src=".github/codigo.PNG" width="100%">
 </p>
 
 ## GoStack - Primeiro modulo React Native
